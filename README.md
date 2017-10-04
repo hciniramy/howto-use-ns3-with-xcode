@@ -2,6 +2,9 @@ This is a small guide on how to integrate your NS-3 projects with XCode and make
 The main purpose of this is to be able to use the debugging features of XCode with your NS-3 project. 
 Because we all know that debugging is a pain in the a** ! Especially with the non-helping error messages of NS-3 ./waf build tool.
 
+This works with :
+- XCode version : **9.0**
+- NS : **3.26**
 ---
 
 #### Create an XCode Project
